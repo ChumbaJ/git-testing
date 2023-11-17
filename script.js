@@ -5,3 +5,7 @@ while (a < 10) {
     console.log("IIII")
     a++;
 }
+
+let b = "Hello world";
+
+console.log(b)
